@@ -1,10 +1,10 @@
 import { socialLinks } from "./socialLinks";
 
 export const siteConfig = {
-	name: "Your App Name",
-	description: "Here you can write a brief description of your application. Tell users about its main features and benefits in 1-2 sentences.",
+	name: "Byway Fit",
+	description: "Track your workouts, monitor your progress, and back up your data to the cloud with ease.",
 	keywords: ["mobile app", "landing page", "astro", "react", "typescript"],
-	logo: "/assets/favicon.png",
+	logo: "/assets/byway.png",
 	storeLinks: {
 		apple: "#",
 		google: "#",

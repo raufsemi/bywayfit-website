@@ -7,17 +7,17 @@ import type { SocialLink } from "@/types/app";
 
 export const socialLinks: SocialLink[] = [
 	{
-		url: "#",
+		url: "https://instagram.com/raufsemi",
 		icon: RiInstagramFill,
 		label: "Instagram",
 	},
 	{
-		url: "#",
+		url: "https://telegram.com",
 		icon: RiTelegram2Fill,
 		label: "Telegram",
 	},
 	{
-		url: "#",
+		url: "https://x.com/bywayfit",
 		icon: RiTwitterXFill,
 		label: "Twitter",
 	},

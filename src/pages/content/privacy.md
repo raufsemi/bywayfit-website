@@ -1,57 +1,47 @@
 # Privacy Policy
 
-**Last updated:** February 1, 2025
+**Effective Date:** Friday 12 December
 
-## Data Collection
+Your privacy is important to us. This Privacy Policy explains how Byway Fit collects, uses, and protects your information.
 
-We collect:
+## 1. Information We Collect
+We may collect the following information:
 
-- Anonymous usage metrics
-- App performance data
-- Device information
-- Error reports
+- **Account information:** When you sign in using Google, Apple, or email, we collect your name and email address.  
+- **Profile information:** You can upload a profile picture for your account.  
+- **Usage data:** We collect analytics and app usage data through Firebase and other services to improve the app.  
+- **Third-party API data:** We may receive information from connected third-party services that you authorize.
 
-## Data Usage
+## 2. How We Use Your Information
+We use your data to:
 
-We use collected data to:
+- Provide and maintain our app services  
+- Improve app functionality and performance  
+- Communicate with you regarding updates or support  
 
-- Improve app performance
-- Fix technical issues
-- Enhance features
-- Optimize experience
+We do not sell your personal data to third parties.
 
-## Security Measures
+## 3. Sharing and Third-Party Services
+We may share your information with:
 
-We protect your data with:
+- **Third-party APIs and services** that are necessary to operate the app (e.g., Firebase, authentication providers)  
+- **Law enforcement or legal authorities** when required by law  
 
-- Encryption protocols
-- Regular security checks
-- Secure storage systems
+If you use services we integrate, their own privacy policies may apply.
 
-## Data Sharing Policy
+## 4. User Content
+You can upload a profile picture. We do not allow public sharing of uploaded images or other personal content.  
 
-We do not sell your data. We share data only:
+## 5. Data Retention and Deletion
+You may request deletion of your account and associated data. Please contact us via our [Facebook page](https://www.facebook.com/YourPageName) to initiate deletion.  
 
-- With essential services
-- When legally required
-- When you request it
+We retain necessary data for legal compliance and to maintain app functionality until deletion is requested.
 
-## User Rights
+## 6. Security
+We implement reasonable security measures to protect your data. However, no system is completely secure, and we cannot guarantee absolute security.
 
-You can:
+## 7. Changes to This Policy
+We may update this Privacy Policy occasionally. Changes will be posted with the updated effective date. Continued use of the app indicates your acceptance of any changes.
 
-- View your data
-- Delete your data
-- Stop analytics
-- Download your data
-
-## Policy Updates
-
-We will notify you of policy changes through our app or email.
-
-## Contact
-
-Questions? Reach us at:
-
-- privacy@example.com
-- help.example.com
+## 8. Contact
+For questions or requests regarding this Privacy Policy, please contact us via our [Facebook page](https://www.facebook.com/YourPageName).

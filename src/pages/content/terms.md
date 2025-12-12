@@ -1,53 +1,31 @@
-# Terms of Service
+# Terms and Conditions
 
-**Effective date:** February 1, 2025
+**Effective Date:** Friday 12 December
 
-## Acceptance
+Welcome to Byway Fit By using our app, you agree to these terms and conditions. Please read them carefully.
 
-By using this service, you agree to these terms.
+## 1. Use of the App
+You agree to use Byway Fit only for lawful purposes. You may not use the app in ways that could harm others, violate laws, or disrupt services.
 
-## Account Rules
+## 2. Account
+If the app requires an account, you are responsible for keeping your login information secure. You agree to provide accurate information and notify us of any unauthorized use.
 
-- Provide accurate information
-- Keep your account secure
-- One account per person
-- We may terminate accounts that violate terms
+## 3. Content
+You are responsible for any content you upload or share using the app. We may remove content that violates these terms or is illegal.
 
-## Billing
+## 4. Privacy
+Our [Privacy Policy](privacy) explains how we handle your personal data. By using the app, you agree to our Privacy Policy.
 
-- Prices in USD
-- Auto-renewal enabled
-- Cancel anytime
-- No partial refunds
+## 5. Intellectual Property
+All content, assets, and materials created by Byway Fit are owned or licensed by us.  
+Some assets, libraries, or content in the app may come from third-party sources or open-source projects and are used under their respective licenses.  
+You may not copy, distribute, or modify content owned by us without permission.
 
-## Usage Rules
+## 6. Limitation of Liability
+Byway Fit is provided “as is.” We are not responsible for any damages arising from your use of the app.
 
-Do not:
+## 7. Changes
+We may update these Terms and Conditions at any time. Continued use of the app means you accept the changes.
 
-- Break laws
-- Infringe copyrights
-- Share harmful content
-- Hack or disrupt service
-
-## Content Policy
-
-No uploading of:
-
-- Illegal materials
-- Harmful content
-- Spam
-- Malware
-
-## Legal Notes
-
-- We own app content
-- You own your content
-- Service provided "as is"
-- No uptime guarantee
-
-## Contact
-
-- Email: legal@example.com
-- Address: 123 Tech Street, Suite 100
-- Phone: (555) 123-4567
-
+## 8. Contact
+For questions about these Terms, contact us via our [Facebook page](https://www.facebook.com/raufsemi).

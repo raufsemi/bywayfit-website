@@ -3,18 +3,18 @@ import type { Feature } from "@/types/app";
 
 export const features: Feature[] = [
 	{
-		title: "Main Feature",
-		description: "Describe your main feature here. What makes it special?",
+		title: "Track Workouts",
+		description: "Log your exercises, monitor progress, and save data to the cloud?",
 		icon: FiStar,
 	},
 	{
-		title: "Another Feature",
-		description: "What else can your app do? Tell users about it here.",
+		title: "Quick Workouts",
+		description: "Fast, effective exercises anytime.",
 		icon: FiZap,
 	},
 	{
-		title: "One More Feature",
-		description: "Add another key feature of your application here.",
+		title: "Progress Reports",
+		description: "See your improvements over time with easy-to-read stats and charts.",
 		icon: FiBox,
 	},
 ];

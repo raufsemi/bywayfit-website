@@ -2,15 +2,15 @@ import type { FAQ } from "@/types/app";
 
 export const faqs: FAQ[] = [
 	{
-		question: "Question 1?",
-		answer: "Answer to question 1 goes here.",
+		question: "Do you collect my personal data?",
+		answer: "No. We only use Google Sign-In to create your account. Your data stays private and is stored securely on Firebase. We don’t sell or share your information.",
 	},
 	{
-		question: "Question 2?",
-		answer: "Answer to question 2 goes here.",
+		question: "Is the app free?",
+		answer: "Yes!. No hidden charges.",
 	},
 	{
-		question: "Question 3?",
-		answer: "Answer to question 3 goes here.",
+		question: "How do I report a bug or issue?",
+		answer: "You can reach me on Facebook at @raufsemi.",
 	},
 ];

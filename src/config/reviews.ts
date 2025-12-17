@@ -2,23 +2,23 @@ import type { Review } from "@/types/app";
 
 export const reviews: Review[] = [
 	{
-		author: "Sarah K.",
+		author: "Chloe",
 		rating: 5,
-		text: "This app has completely transformed how I manage my daily tasks. The interface is intuitive and the performance is outstanding!",
+		text: "TBD",
 	},
 	{
-		author: "James M.",
+		author: "Stephen Hawking",
 		rating: 5,
-		text: "I've tried dozens of similar apps, but this one stands out with its unique features and reliability. Highly recommended!",
+		text: "TBD",
 	},
 	{
-		author: "Elena T.",
+		author: "Juwita",
 		rating: 4,
-		text: "Great app with impressive functionality. The recent update made it even better. Just a few minor UI improvements would make it perfect.",
+		text: "TBD",
 	},
 	{
 		author: "Michael R.",
 		rating: 5,
-		text: "Customer support is exceptional. Had an issue and they resolved it within hours. The app itself is fantastic too!",
+		text: "TBD",
 	},
 ];

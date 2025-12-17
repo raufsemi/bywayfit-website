@@ -2,9 +2,9 @@ import { socialLinks } from "./socialLinks";
 
 export const siteConfig = {
 	name: "Byway Fit",
-	description: "Track your workouts, monitor your progress, and back up your data to the cloud with ease.",
+	description: "Track your exercises, monitor progress, and save it safely",
 	keywords: ["mobile app", "landing page", "astro", "react", "typescript"],
-	logo: "/assets/byway.png",
+	logo: "/assets/logo.png",
 	storeLinks: {
 		apple: "#",
 		google: "#",
